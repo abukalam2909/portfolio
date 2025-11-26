@@ -22,7 +22,7 @@ window.siteData = {
     {
       title: "YouTube Analytics Studio",
       stack: "Serverless RAG · Bedrock · Comprehend",
-      media: "assets/Images/projects/YouTubeAnalyticsStudio.png",
+      media: "assets/Images/Projects/YouTubeAnalyticsStudio.png",
       summary: "GenAI pipeline for YouTube content with sentiment-aware retrieval and LLM insights.",
       bullets: [
         "Multi-Lambda orchestration with DynamoDB/S3; combined Comprehend scoring with Claude 3 prompts.",
@@ -35,7 +35,7 @@ window.siteData = {
     {
       title: "NutriLens",
       stack: "EKS · Terraform · Spring Boot",
-      media: "assets/Images/projects/NutriLens.jpg",
+      media: "assets/Images/Projects/NutriLens.jpg",
       summary: "Cloud-native microservices serving nutrition analysis for 3.8M+ products with sub-second latency.",
       bullets: [
         "Provisioned Amazon EKS with Terraform; automated deploys via GitHub Actions and blue/green rollouts.",
@@ -48,7 +48,7 @@ window.siteData = {
     {
       title: "E-commerce Inventory App",
       stack: "GKE · Terraform · CI/CD",
-      media: "assets/Images/projects/E-commerceInventoryApp.png",
+      media: "assets/Images/Projects/E-commerceInventoryApp.png",
       summary: "Spring Boot services on GKE with lean Docker images and modular IaC.",
       bullets: [
         "Cut image sizes by ~80% to improve cold starts and rollout speeds across environments.",
@@ -61,7 +61,7 @@ window.siteData = {
     {
       title: "TaskTap",
       stack: "Serverless · RBAC · GuardDuty",
-      media: "assets/Images/projects/TaskTap.png",
+      media: "assets/Images/Projects/TaskTap.png",
       summary: "Household task platform with JWT-based RBAC and observability baked in.",
       bullets: [
         "AWS Lambda + API Gateway authorizers with DynamoDB for scheduling logic.",
@@ -112,10 +112,10 @@ window.siteData = {
     { title: "Quality & Process", items: ["Robot Framework", "JUnit", "Postman", "Agile/Scrum", "CI/CD pipelines"] }
   ],
   certifications: [
-    { name: "CKAD", url: "https://www.credly.com/badges/f65ddab3-3f11-4373-8aaa-4697af23f93a/public_url", badge: "assets/Images/certifications/CKAD.png" },
-    { name: "AWS Certified Solutions Architect – Associate (SAA-C03)", url: "https://www.credly.com/badges/b1038e0b-2887-4e7a-8a9d-3d11d2ba27c2/public_url", badge: "assets/Images/certifications/SolutionsArchitect.png" },
-    { name: "AWS Certified AI Practitioner", url: "https://www.credly.com/badges/db246e12-fe8d-493e-917f-5c0bd8902169/public_url", badge: "assets/Images/certifications/AIPractitioner.png" },
-    { name: "AWS Certified Cloud Practitioner", url: "https://www.credly.com/badges/bc0df4d0-6a22-4228-80c2-c813d4756c27/public_url", badge: "assets/Images/certifications/CloudPractitioner.png" },
-    { name: "Microsoft Azure Fundamentals (AZ-900)", url: "https://www.credly.com/badges/b79bc1cf-362c-4840-8394-745cbb6fe274/public_url", badge: "assets/Images/certifications/AZ900.png" }
+    { name: "CKAD", url: "https://www.credly.com/badges/f65ddab3-3f11-4373-8aaa-4697af23f93a/public_url", badge: "assets/Images/Certifications/CKAD.png" },
+    { name: "AWS Certified Solutions Architect – Associate (SAA-C03)", url: "https://www.credly.com/badges/b1038e0b-2887-4e7a-8a9d-3d11d2ba27c2/public_url", badge: "assets/Images/Certifications/SolutionsArchitect.png" },
+    { name: "AWS Certified AI Practitioner", url: "https://www.credly.com/badges/db246e12-fe8d-493e-917f-5c0bd8902169/public_url", badge: "assets/Images/Certifications/AIPractitioner.png" },
+    { name: "AWS Certified Cloud Practitioner", url: "https://www.credly.com/badges/bc0df4d0-6a22-4228-80c2-c813d4756c27/public_url", badge: "assets/Images/Certifications/CloudPractitioner.png" },
+    { name: "Microsoft Azure Fundamentals (AZ-900)", url: "https://www.credly.com/badges/b79bc1cf-362c-4840-8394-745cbb6fe274/public_url", badge: "assets/Images/Certifications/AZ900.png" }
   ]
 };
