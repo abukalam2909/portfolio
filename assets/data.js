@@ -112,7 +112,7 @@ window.siteData = {
     { title: "Quality & Process", items: ["Robot Framework", "JUnit", "Postman", "Agile/Scrum", "CI/CD pipelines"] }
   ],
   certifications: [
-    { name: "CKAD", url: "https://www.credly.com/badges/f65ddab3-3f11-4373-8aaa-4697af23f93a/public_url", badge: "Images/Certifications/CKAD.png" },
+    { name: "CKAD", url: "https://www.credly.com/badges/f65ddab3-3f11-4373-8aaa-4697af23f93a/public_url", badge: "/Images/Certifications/CKAD.png" },
     { name: "AWS Certified Solutions Architect – Associate (SAA-C03)", url: "https://www.credly.com/badges/b1038e0b-2887-4e7a-8a9d-3d11d2ba27c2/public_url", badge: "Images/Certifications/SolutionsArchitect.png" },
     { name: "AWS Certified AI Practitioner", url: "https://www.credly.com/badges/db246e12-fe8d-493e-917f-5c0bd8902169/public_url", badge: "Images/Certifications/AIPractitioner.png" },
     { name: "AWS Certified Cloud Practitioner", url: "https://www.credly.com/badges/bc0df4d0-6a22-4228-80c2-c813d4756c27/public_url", badge: "Images/Certifications/CloudPractitioner.png" },
